@@ -3,6 +3,8 @@ This project is from my last year in my Higher education studies, the objective 
 
 It was a group project, my classmate did the art and i did the programming. 
 
+**The server which the game sessions and accounts were assigned is not active anymore.**
+
 **Video:** https://drive.google.com/file/d/168EinP-CeXLMbyVJnC5FDlmOVd0EQNEm/view?usp=sharing
 
 **Project files:** https://drive.google.com/file/d/1dHRZYLmYmFPlmnUgudFEmXroC32gmor6/view?usp=sharing
