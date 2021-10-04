@@ -1,4 +1,4 @@
-# FPS_ONLINE
+# FPS_Online
 This project is from my last year in my Higher education studies, the objective was learn how to work with the **Photon Engine** in Unity, make a fun multiplayer fps for PC and a app for android that is linked with the user u created ingame using a server, for a lootbox opening mechanic in your mobile.
 
 It was a group project, my classmate did the art and i did the programming. 
